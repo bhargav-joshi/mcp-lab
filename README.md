@@ -1,8 +1,11 @@
-# MCP Lab
+# 🧩 MCP Lab
+
+> **Exploring how AI connects with real-world tools through Model Context Protocol.**
 
 A collection of practical **Model Context Protocol (MCP) servers** built with TypeScript and Node.js.
 
-The goal of this repository is to explore how AI assistants can securely interact with external tools, local systems, APIs, and data through MCP.
+This repository explores how AI assistants can securely interact with **tools, local systems, APIs, and data** through MCP.
+
 
 ## Projects
 
